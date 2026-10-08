@@ -18,12 +18,13 @@ My engineering focus includes **Clean Architecture, scalable REST APIs, offline-
 
 | Area | Technologies |
 |---|---|
-| Mobile | Flutter, Dart, Android (Kotlin), BLoC/Cubit, GetX |
-| Backend | Java, Spring Boot, REST APIs, JWT, Redis |
-| Databases | PostgreSQL, Isar, SQLite |
-| Architecture | Clean Architecture, SOLID, Dependency Injection, Offline-First |
-| Tools | Git, Docker, Firebase, Gradle, Linux |
-| Engineering | Performance Optimization, API Design, System Design, Code Review |
+| **Mobile Development** | Flutter, Dart, Android (Kotlin), BLoC/Cubit, GetX, MobX |
+| **Backend Development** | Java, Spring Boot, REST APIs, JWT Authentication |
+| **Relational Databases** | PostgreSQL, MySQL, Microsoft SQL Server, SQLite |
+| **NoSQL & Local Storage** | Firebase Cloud Firestore, Isar, Redis |
+| **Architecture & Design** | Clean Architecture, SOLID, Dependency Injection, Offline-First Architecture |
+| **Cloud & Tools** | Firebase, Docker, Git, Gradle, Linux |
+| **Engineering Practices** | System Design, API Design, Performance Optimization, Code Review |
 
 ---
 
