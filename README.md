@@ -49,16 +49,19 @@ My experience spans fintech, healthcare, travel, social commerce, and enterprise
 Flutter-based travel application featuring hotel discovery, search, filtering, API integrations, and user-focused booking experiences.
 
 [Google Play](https://play.google.com/store/apps/details?id=com.firsttrip.user)
+[App Store](https://apps.apple.com/us/app/firsttrip/id6462388200)
 
 ### HajiTalk — Islamic Lifestyle Application
 Mobile application developed with Flutter and backend services using Java Spring Boot and PostgreSQL. Features include Quran content, translations, prayer-related functionality, and audio capabilities.
 
 [Google Play](https://play.google.com/store/apps/details?id=com.technonext.hajitalk)
+[App Store](https://apps.apple.com/us/app/haji-talk/id6502745293)
 
 ### Fanfare — Social Commerce Application
 Consumer mobile application experience involving production Flutter development, API integration, and application maintenance.
 
 [Google Play](https://play.google.com/store/apps/details?id=com.fanfare.android)
+[App Store](https://apps.apple.com/us/app/fanfare-share-earn-shop/id6448972883)
 
 *Production applications are listed as professional experience; proprietary source code is not publicly shared.*
 
