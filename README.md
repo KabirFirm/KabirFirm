@@ -4,7 +4,7 @@
 
 **Flutter • Kotlin • Java • Spring Boot • PostgreSQL**
 
-I'm a Senior Software Engineer with **15+ years of professional software development experience**, including **5+ years specializing in Flutter** and cross-platform mobile development.
+I'm a Senior Software Engineer with **15+ years of professional software development experience**, including **6+ years specializing in Flutter** and cross-platform mobile development.
 
 I design, build, optimize, and deliver production-grade mobile applications and backend systems, with experience across social commerce, travel, healthcare, and enterprise platforms.
 
