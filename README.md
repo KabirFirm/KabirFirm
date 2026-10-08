@@ -4,7 +4,7 @@
 
 **Flutter • Dart • Kotlin • Java • Spring Boot • PostgreSQL**
 
-I'm a software engineer based in Bangladesh with **15+ years of professional experience**, including 5+ years building cross-platform mobile applications with Flutter.
+I'm a software engineer based in Bangladesh with **15+ years of professional experience**, including 6+ years building cross-platform mobile applications with Flutter.
 
 I specialize in designing, developing, and delivering reliable, scalable, and maintainable applications across mobile and backend platforms.
 
